@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    color: red;
+}
+
+#family_member_name {
+    font-size: 20px;
+    color: green;
+}
